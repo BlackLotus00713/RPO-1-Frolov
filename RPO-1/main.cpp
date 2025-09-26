@@ -158,10 +158,10 @@ int main()
 	{
 		if (arr[i] < 0)
 		{
-			std::cout << arr[i] << " ";
+			std::cout << arr[i] << " ";    
 		}
 	}
-
+	std::cout << "Û";
 
 	return 0;
 }
